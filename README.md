@@ -6,12 +6,30 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ### Contents
 
-### Contents
+- [Artificial Intelligence](#ai)
+- [Tensorflow](#tensorflow)
+- [Api.ai](#apiai)
 
-- [Go](#go)
-    - [Api.ai](#apiai)
-    - [Tensorflow](#tensorflow)
-    - [Artificial Intelligence](#ai)
+
+## Artificial Intelligence
+
+*General*
+
+* [The Future Of Artificial Intelligence Is Being Led By Google And Alphabet](http://www.ibtimes.com/future-artificial-intelligence-being-led-google-alphabet-2547160)
+* [How Artificial Intelligence enhances education](thenextweb.com/artificial-intelligence/2017/03/13/how-artificial-intelligence-enhances-education/)
+* [Artificial intelligence predicts patient lifespans](https://techxplore.com/news/2017-06-artificial-intelligence-patient-lifespans.html)
+
+## Tensorflow
+
+*General*
+
+* [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
+* [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb)
+* [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
+
+*Using Go language*
+
+* [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
 
 ## Api.ai
 
@@ -46,22 +64,3 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [Actions on Google: Building Assistant Actions using API.AI](https://youtu.be/9SUAuy9OJg4)
 * [AI Bots -Get User Location from Messenger using API.AI webhook](http://dai.ly/x5n8thz)
 
-## Tensorflow
-
-*General*
-
-* [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
-* [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb)
-* [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
-
-*Using Go language*
-
-* [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
-
-## Artificial Intelligence
-
-*General*
-
-* [The Future Of Artificial Intelligence Is Being Led By Google And Alphabet](http://www.ibtimes.com/future-artificial-intelligence-being-led-google-alphabet-2547160)
-* [How Artificial Intelligence enhances education](thenextweb.com/artificial-intelligence/2017/03/13/how-artificial-intelligence-enhances-education/)
-* [Artificial intelligence predicts patient lifespans](https://techxplore.com/news/2017-06-artificial-intelligence-patient-lifespans.html)
