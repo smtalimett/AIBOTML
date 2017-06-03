@@ -6,8 +6,8 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ### Contents
 
-- [Artificial Intelligence](#ai)
-- [Machine Learning](#mc)
+- [Artificial Intelligence](#artificialintelligence)
+- [Machine Learning](#machinelearning)
 - [Tensorflow](#tensorflow)
 - [Api.ai](#apiai)
 - [Wit.ai](#witai)
