@@ -9,9 +9,9 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
 - [Tensorflow](#tensorflow)
-- [Api.ai](#api-ai)
-- [Wit.ai](#wit-ai)
-- [Init.ai](#init-ai)
+- [Api.ai](#apiai)
+- [Wit.ai](#witai)
+- [Init.ai](#initai)
 
 ## Artificial Intelligence
 
