@@ -12,7 +12,7 @@ Contributions most welcome.
 - [Machine Learning](#machine-learning)
 - [Tensorflow](#tensorflow)
 - [Bots](#bots)
-    - [NLP](*nlp)
+    - [NLP](#nlp)
     - [Api.ai](#apiai)
     - [Wit.ai](#witai)
     - [Init.ai](#initai)
