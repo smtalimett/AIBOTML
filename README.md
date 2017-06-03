@@ -12,7 +12,11 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ## Api.ai
 
+*Documentation and Articles:*
+
 * [Get started in 5 steps](https://docs.api.ai/docs/get-started)
+* [Using Golang with Api.ai Artificial Intelligence service - Part 1](https://medium.com/@IndianGuru/using-golang-with-api-ai-artificial-intelligence-service-5ed2209a347c)
+* [Using Golang with Api.ai Artificial Intelligence service - Part 2](https://medium.com/@IndianGuru/using-golang-with-api-ai-artificial-intelligence-service-86afdf4b8ac2)
 
 ## Audio/Music
 
