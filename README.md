@@ -8,6 +8,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 - [Go](#go)
     - [Api.ai](#apiai)
+    - [Tensorflow](tensorflow)
 
 ## Api.ai
 
@@ -16,6 +17,9 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 *General*
 
 * [Get started in 5 steps](https://docs.api.ai/docs/get-started)
+* [How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)
+* [Customizing Your Api.ai Assistant with Intent and Context](https://www.sitepoint.com/customizing-your-api-ai-assistant-with-intent-and-context/)
+* [Empowering Your Api.ai Assistant with Entities](https://www.sitepoint.com/teaching-our-api-ai-assistant-concepts-via-entities/)
 * [API.AI “Small Talk” is now Open! Why is it a Really Big Deal?](https://chatbotsmagazine.com/api-ai-small-talk-is-now-open-source-why-is-it-a-big-deal-a39c54f89d85)
 * [Making your own chatbot with API.AI](https://blog.craftworkz.co/making-your-own-chatbot-with-api-ai-21be5444a2df)
 * [Using api.ai with microsoft bot framework ](https://medium.com/@akshaykulkarni/using-api-ai-with-microsoft-bot-framework-577a5d9fb66f)
@@ -32,4 +36,13 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 *Videos*
 
+* [Getting Started in 3 Minutes with API.AI](https://youtu.be/Om7tyGGemXI)
+* [Actions on Google: Building Assistant Actions using API.AI](https://youtu.be/9SUAuy9OJg4)
 * [AI Bots -Get User Location from Messenger using API.AI webhook](http://dai.ly/x5n8thz)
+
+## Tensorflow
+
+* [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
+* [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb)
+* [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
+
