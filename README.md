@@ -2,6 +2,8 @@
 
 A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
+Contributions most welcome.
+
 **Note**: Twitter tags used are: #artificialintelligence, #ai, #bots, #machinelearning
 
 ### Contents
@@ -10,6 +12,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Machine Learning](#machine-learning)
 - [Tensorflow](#tensorflow)
 - [Bots](#bots)
+    - [NLP](*nlp)
     - [Api.ai](#apiai)
     - [Wit.ai](#witai)
     - [Init.ai](#initai)
@@ -49,7 +52,9 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 * [Build your own bots with Azure Bot Service](https://youtu.be/1xgMEkvEppM)
 
-## Api.ai
+## NLP (tools, engines, SDKs, frameworks)
+
+## Api.ai - Conversational User Experience Platform from Google
 
 *General*
 
@@ -81,7 +86,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [Actions on Google: Building Assistant Actions using API.AI](https://youtu.be/9SUAuy9OJg4)
 * [AI Bots -Get User Location from Messenger using API.AI webhook](http://dai.ly/x5n8thz)
 
-## Wit.ai
+## Wit.ai - Natural Language Service for Developers from Facebook
 
 *General*
 
