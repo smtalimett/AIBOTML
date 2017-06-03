@@ -17,6 +17,8 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 *General*
 
 * [Get started in 5 steps](https://docs.api.ai/docs/get-started)
+* [Intents](https://docs.api.ai/docs/concept-intents)
+* [Profile Bot Example Agent](https://docs.api.ai/docs/profile-bot-example-agent)
 * [How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)
 * [Customizing Your Api.ai Assistant with Intent and Context](https://www.sitepoint.com/customizing-your-api-ai-assistant-with-intent-and-context/)
 * [Empowering Your Api.ai Assistant with Entities](https://www.sitepoint.com/teaching-our-api-ai-assistant-concepts-via-entities/)
