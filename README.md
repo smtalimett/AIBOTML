@@ -8,7 +8,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 - [Go](#go)
     - [Api.ai](#apiai)
-    - [Tensorflow](tensorflow)
+    - [Tensorflow](#tensorflow)
 
 ## Api.ai
 
