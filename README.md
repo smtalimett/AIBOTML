@@ -10,6 +10,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Tensorflow](#tensorflow)
 - [Api.ai](#apiai)
 - [Wit.ai](#witai)
+- [Init.ai](#initai)
 
 ## Artificial Intelligence
 
@@ -68,4 +69,10 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 *General*
 
 * [Wit.ai site](https://wit.ai)
+
+## Init.ai
+
+*General*
+
+* [Init.ai site](https://www.init.ai)
 
