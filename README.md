@@ -11,6 +11,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Go](#go)
     - [Api.ai](#apiai)
     - [Tensorflow](#tensorflow)
+    - [Artificial Intelligence](#ai)
 
 ## Api.ai
 
@@ -56,3 +57,11 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 *Using Go language*
 
 * [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
+
+## Artificial Intelligence
+
+*General*
+
+* [The Future Of Artificial Intelligence Is Being Led By Google And Alphabet](http://www.ibtimes.com/future-artificial-intelligence-being-led-google-alphabet-2547160)
+* [How Artificial Intelligence enhances education](thenextweb.com/artificial-intelligence/2017/03/13/how-artificial-intelligence-enhances-education/)
+* [Artificial intelligence predicts patient lifespans](https://techxplore.com/news/2017-06-artificial-intelligence-patient-lifespans.html)
