@@ -7,6 +7,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 ### Contents
 
 - [Artificial Intelligence](#ai)
+- [Machine Learning](#mc)
 - [Tensorflow](#tensorflow)
 - [Api.ai](#apiai)
 - [Wit.ai](#witai)
@@ -19,6 +20,13 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [The Future Of Artificial Intelligence Is Being Led By Google And Alphabet](http://www.ibtimes.com/future-artificial-intelligence-being-led-google-alphabet-2547160)
 * [How Artificial Intelligence enhances education](thenextweb.com/artificial-intelligence/2017/03/13/how-artificial-intelligence-enhances-education/)
 * [Artificial intelligence predicts patient lifespans](https://techxplore.com/news/2017-06-artificial-intelligence-patient-lifespans.html)
+* [Researchers Have Created an AI That Could Read and React to Emotions](https://futurism.com/researchers-have-created-an-ai-that-could-read-and-react-to-emotions/)
+
+## Machine Learning
+
+*General*
+
+* [13 frameworks for mastering machine learning](http://www.infoworld.com/article/3026262/data-science/13-frameworks-for-mastering-machine-learning.html#slide1)
 
 ## Tensorflow
 
