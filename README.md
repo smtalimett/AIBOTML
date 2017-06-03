@@ -12,10 +12,7 @@ Contributions most welcome.
 - [Machine Learning](#machine-learning)
 - [Tensorflow](#tensorflow)
 - [Bots](#bots)
-    - [NLP](#nlp)
-    - [Api.ai](#apiai)
-    - [Wit.ai](#witai)
-    - [Init.ai](#initai)
+    - [NLP (tools, engines, SDKs, frameworks)](#nlp-tools-engines-sdks-frameworks)
 
 ## Artificial Intelligence
 
@@ -54,7 +51,7 @@ Contributions most welcome.
 
 ## NLP (tools, engines, SDKs, frameworks)
 
-## Api.ai - Conversational User Experience Platform from Google
+### Api.ai - Conversational User Experience Platform from Google
 
 *General*
 
@@ -86,13 +83,13 @@ Contributions most welcome.
 * [Actions on Google: Building Assistant Actions using API.AI](https://youtu.be/9SUAuy9OJg4)
 * [AI Bots -Get User Location from Messenger using API.AI webhook](http://dai.ly/x5n8thz)
 
-## Wit.ai - Natural Language Service for Developers from Facebook
+### Wit.ai - Natural Language Service for Developers from Facebook
 
 *General*
 
 * [Wit.ai site](https://wit.ai)
 
-## Init.ai
+### Init.ai
 
 *General*
 
