@@ -2,6 +2,8 @@
 
 A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
+**Note**: Twitter tags used are: #artificialintelligence, #ai, #bots, #machinelearning
+
 ### Contents
 
 ### Contents
