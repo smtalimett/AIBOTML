@@ -6,23 +6,15 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ### Contents
 
-- [Awesome Go](#awesome-go)
-    - [Audio & Music](#audiomusic)
-    - [Authentication & OAuth](#authentication--oauth)
-    - [Command Line](#command-line)
-
 - [Go](#go)
     - [Api.ai](#apiai)
+    - [Audio & Music](#audiomusic)
 
 ## Api.ai
 
-*Libraries for manipulating audio.*
-
-* [flac](https://github.com/eaburns/flac) - A native Go FLAC decoder.
+* [Get started in 5 steps](https://docs.api.ai/docs/get-started)
 
 ## Audio/Music
-
-*Libraries for manipulating audio.*
 
 * [flac](https://github.com/eaburns/flac) - A native Go FLAC decoder.
 * [flac](https://github.com/mewkiz/flac) - A native Go FLAC decoder.
@@ -40,6 +32,3 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [vorbis](https://github.com/mccoyst/vorbis) - A "native" Go Vorbis decoder (uses CGO, but has no dependencies).
 * [waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams.
 
-## Authentication & OAuth
-
-*Libraries for implementing authentications schemes.*
