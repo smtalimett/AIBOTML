@@ -41,6 +41,10 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 * [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
 
+*Videos*
+
+* [Effective TensorFlow for Non-Experts](https://youtu.be/5DknTFbcGVM)
+
 ## Bots
 
 * [Build your own bots with Azure Bot Service](https://youtu.be/1xgMEkvEppM)
@@ -89,3 +93,8 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 * [Init.ai site](https://www.init.ai)
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Satish Talim](http://satishtalim.com) has waived all copyright and related or neighboring rights to this work.
