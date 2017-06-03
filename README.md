@@ -9,9 +9,10 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
 - [Tensorflow](#tensorflow)
-- [Api.ai](#apiai)
-- [Wit.ai](#witai)
-- [Init.ai](#initai)
+- [Bots](#bots)
+    - [Api.ai](#apiai)
+    - [Wit.ai](#witai)
+    - [Init.ai](#initai)
 
 ## Artificial Intelligence
 
@@ -39,6 +40,10 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 *Using Go language*
 
 * [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
+
+## Bots
+
+* [Build your own bots with Azure Bot Service](https://youtu.be/1xgMEkvEppM)
 
 ## Api.ai
 
