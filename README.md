@@ -9,7 +9,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 - [Artificial Intelligence](#ai)
 - [Tensorflow](#tensorflow)
 - [Api.ai](#apiai)
-
+- [Wit.ai](#witai)
 
 ## Artificial Intelligence
 
@@ -33,10 +33,9 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ## Api.ai
 
-*Documentation and Articles*
-
 *General*
 
+* [Api.ai site](https://api.ai)
 * [Get started in 5 steps](https://docs.api.ai/docs/get-started)
 * [Intents](https://docs.api.ai/docs/concept-intents)
 * [Profile Bot Example Agent](https://docs.api.ai/docs/profile-bot-example-agent)
@@ -63,4 +62,10 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [Getting Started in 3 Minutes with API.AI](https://youtu.be/Om7tyGGemXI)
 * [Actions on Google: Building Assistant Actions using API.AI](https://youtu.be/9SUAuy9OJg4)
 * [AI Bots -Get User Location from Messenger using API.AI webhook](http://dai.ly/x5n8thz)
+
+## Wit.ai
+
+*General*
+
+* [Wit.ai site](https://wit.ai)
 
