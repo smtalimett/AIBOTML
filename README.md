@@ -35,6 +35,7 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 * [Tutorial : Getting Started with Google Actions with API.AI](https://rominirani.com/tutorial-getting-started-with-google-actions-with-api-ai-a3b79550a062)
 * [Workshop Material : Building Conversational Agents using API.AI](https://rominirani.com/workshop-material-building-conversational-agents-using-api-ai-5b2d2f05f097)
 * [Workshop on building Conversational Agents using API.AI](https://github.com/rominirani/api-ai-workshop)
+* [A Go-Powered Slack Interactive Message Bot](https://github.com/tcnksm/go-slack-interactive)
 
 *Videos*
 
@@ -44,7 +45,12 @@ A curated list of awesome AI, BOTs and Machine Learning articles, videos etc.
 
 ## Tensorflow
 
+*General*
+
 * [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
 * [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb)
 * [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
 
+*Using Go language*
+
+* [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
